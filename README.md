@@ -1,0 +1,1 @@
+Generates a maze procedurally on startup Can move thorugh the maze Can select option to allow computer to find shortest route to solution
